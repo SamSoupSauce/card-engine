@@ -4,6 +4,8 @@
 [![HTML5 / Vanilla JS](https://img.shields.io/badge/Tech-HTML5%20%7C%20Tailwind%20%7C%20WebAudio-emerald.svg)](#technology-stack)
 [![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue.svg)](#-how-to-publish-on-github-pages)
 
+[Live Example](https://samsoupsauce.github.io/card-engine/)
+
 An authentic, single-file luxury casino card gaming suite crafted with zero-dependency vanilla web standards. Features an expandable **Grand Salon Game Menu**, a certified **Baccarat Punto Banco** high-roller table with international third-card tableau rules, real-time Macau Bead Plate roadmaps, 8-deck shoe simulation, and synthesized Web Audio sound effects.
 
 ---
