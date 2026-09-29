@@ -4,8 +4,6 @@
 [![HTML5 / Vanilla JS](https://img.shields.io/badge/Tech-HTML5%20%7C%20Tailwind%20%7C%20WebAudio-emerald.svg)](#technology-stack)
 [![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue.svg)](#-how-to-publish-on-github-pages)
 
-[Live Example](https://samsoupsauce.github.io/card-engine/)
-
 An authentic, single-file luxury casino card gaming suite crafted with zero-dependency vanilla web standards. Features an expandable **Grand Salon Game Menu**, a certified **Baccarat Punto Banco** high-roller table with international third-card tableau rules, real-time Macau Bead Plate roadmaps, 8-deck shoe simulation, and synthesized Web Audio sound effects.
 
 ---
@@ -30,8 +28,21 @@ An authentic, single-file luxury casino card gaming suite crafted with zero-depe
   - Player Pair & Banker Pair (11:1)
 - **Automated Bet Sweeps & REBET**: Table bets cleanly resolve and reset between deals, with one-click **REBET** to repeat previous stakes.
 - **Macau Bead Plate Roadmap**: Live chronological 6-row tracking grid showing Player (blue), Banker (red), Tie (green), scores, and cumulative win totals.
+* **Macau Bead Plate Roadmap**: Live chronological 6-row tracking grid showing Player (blue), Banker (red), Tie (green), scores, and cumulative win totals.
+
+### ♠️ Blackjack VIP Salon (Vegas Strip)
+
+* **6-Deck Shoe**: Full 312-card continuous shoe with realistic penetration tracking and auto-reshuffle.
+* **Vegas Strip Standard Rules**:
+  * Dealer stands on all 17s (hard and soft 17).
+  * Natural Blackjack pays **3:2**.
+  * **Double Down**: Double your wager on initial two cards, receive exactly one card, and stand.
+  * **Split Hands**: Split matching initial cards into two independent hands with individual wagers and actions.
+  * **Insurance**: Offered when Dealer shows an Ace, paying **2:1** if Dealer has Blackjack.
+* **Animated Hole Card Reveal**: Dealer draws one card face up and one card face down with authentic gold-filigree card back, revealed only on Dealer's turn.
 
 ### 🎨 Visual & Audio Polish
+
 - **Procedural SVG Cards**: High-definition, scalable vector cards with custom pip placements, court face cards, and luxury card backs.
 - **Macau Velvet Aesthetics**: Deep emerald felt with subtle lighting, gold inlays, wood trim rails, and tactile 3D chip racks ($5, $25, $100, $500, $1K).
 - **Synthesized Web Audio**: In-browser audio engine generating chip tosses, card slide foley, and winning arpeggio chimes without external asset dependencies.
@@ -107,13 +118,13 @@ git push -u origin main
 
 ## 🗺️ Roadmap
 
-- [x] Grand Salon Game Selection Menu
-- [x] Baccarat Punto Banco with Macau Bead Plate Roadmap
-- [x] 8-Deck Shoe & Penetration Tracking
-- [x] REBET and automated chip resets
-- [ ] **Blackjack VIP**: Vegas Strip rules (Split, Double Down, Insurance, Dealer stands on 17)
-- [ ] **Dragon Tiger**: Fast-paced single-card showdown table
-- [ ] Big Road, Big Eye Boy, Small Road, and Cockroach Pig roadmaps
+* [x] Grand Salon Game Selection Menu
+* [x] Baccarat Punto Banco with Macau Bead Plate Roadmap
+* [x] 8-Deck Shoe & Penetration Tracking
+* [x] REBET and automated chip resets
+* [x] **Blackjack VIP**: Vegas Strip rules (Split, Double Down, Insurance, Dealer stands on 17)
+* [ ] **Dragon Tiger**: Fast-paced single-card showdown table
+* [ ] Big Road, Big Eye Boy, Small Road, and Cockroach Pig roadmaps
 
 ---
 
